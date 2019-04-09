@@ -55,8 +55,7 @@ nav>.choosen{
 }
 
 article{
-    width:80%;
-    margin:auto;
+    width:  100%-9px;
     min-height:500px;
     padding:9px;
     padding-bottom:70px;
